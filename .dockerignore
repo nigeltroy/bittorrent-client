@@ -1,0 +1,24 @@
+# all Git related files and folders
+.gitignore
+.git
+
+# pyenv
+.python-version
+
+# cache folders
+.cache
+
+# pycache
+__pycache__/
+
+# testing pip requirements
+test_requirements.txt
+
+# test folder
+tests/
+
+# tox
+tox.ini
+
+# mypy
+.mypy_cache
